@@ -21,7 +21,7 @@
     "mongoose": "^5.9.7",
     "react-redux": "^7.2.4",
     "redux": "^4.1.0",
-    "stripe": "^8.67.0"
+    "stripe": "^8.146.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
